@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/peterrek/social-proof-section)
-- Live Site URL: [Add live site URL here](https://peterrek.github.io/social-proof-section/)
+- Solution URL: https://github.com/peterrek/social-proof-section
+- Live Site URL: https://peterrek.github.io/social-proof-section
 
 ## My process
 
